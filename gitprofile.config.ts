@@ -42,7 +42,7 @@ const CONFIG = {
         },
         {
           title: 'Beyond the Myths: A Data-Driven Analysis of Common Myths in Football',
-          description: 'Project focusing on investigating whether a 2-0 scoreline is truly dangerous and analysed the impact of home-field advantage using 10 seasons of Premier League data.'
+          description: 'Project focusing on investigating whether a 2-0 scoreline is truly dangerous and analysed the impact of home-field advantage using 10 seasons of Premier League data.',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Beyond%20The%20Myths/Beyond%20the%20Myths.ipynb',

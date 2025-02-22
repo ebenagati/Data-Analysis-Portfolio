@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/Data-Analysis-Portfolio/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://newsroom.spotify.com/media-kit/logo-and-brand-assets/',
+          link: 'https://github.com/ebenagati/Portfolio/blob/main/Wrapped%20in%20Mystery%3A%20Why%20Drake%20Always%20Makes%20the%20Cut/README.md',
         },
         {
           title: 'Project Name',

@@ -86,9 +86,7 @@ const CONFIG = {
     'Python',
     'Excel',
     'Power BI',
-    'Stata',
-    'Jira',
-    'Confluence'
+    'Stata'
   ],
   experiences: [
     {

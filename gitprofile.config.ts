@@ -34,16 +34,18 @@ const CONFIG = {
       projects: [
         {
           title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
-          description:
-            "Description: `Aim To investigate whether 2-0 is a dangerous scoreline and to understand whether there is really an advantage playing at home.<br>\
-Description This project explores two popular football beliefs: the 'dangerous' nature of a 2-0 scoreline and the concept of home-field advantage.<br>\
-Using data from the last 10 seasons within the Premier League, I aim to uncover the accuracy of these assumptions through data analysis.<br>\
-The analysis of the 2-0 scoreline is primarily completed within Python while the analysis of home field advantage is completed within Power BI.<br>\
-Technology Stack Python, Pandas, Numpy, Matplotlib, Excel, Power BI<br>\
-Key Insights The data shows that when a team is winning 2-0 at halftime they are overwhelmingly likely to win the game - 93.4% and 89.18% respectively for Home and Away teams.<br>\
-This indicates that 2-0 is not a dangerous scoreline as leading teams are very likely to finish the game with a win.<br>\
-Based on the following metrics: Win Rate, % of total goals scored at Home vs Away, Home Expected Goals vs Away Expected Goals, Home Shots vs Away Shots & Home Shots on Target vs Away Shots on Target.<br>\
-A team statistically performs better at home.",
+        const description = `Aim To investigate whether 2-0 is a dangerous scoreline and to understand whether there is really an advantage playing at home.<br>
+Description This project explores two popular football beliefs: the 'dangerous' nature of a 2-0 scoreline and the concept of home-field advantage.<br>
+Using data from the last 10 seasons within the Premier League, I aim to uncover the accuracy of these assumptions through data analysis.<br>
+The analysis of the 2-0 scoreline is primarily completed within Python while the analysis of home field advantage is completed within Power BI.<br>
+Technology Stack Python, Pandas, Numpy, Matplotlib, Excel, Power BI<br>
+Key Insights The data shows that when a team is winning 2-0 at halftime they are overwhelmingly likely to win the game - 93.4% and 89.18% respectively for Home and Away teams.<br>
+This indicates that 2-0 is not a dangerous scoreline as leading teams are very likely to finish the game with a win.<br>
+Based on the following metrics: Win Rate, % of total goals scored at Home vs Away, Home Expected Goals vs Away Expected Goals, Home Shots vs Away Shots & Home Shots on Target vs Away Shots on Target.<br>
+A team statistically performs better at home.`;
+
+document.getElementById("content").innerHTML = description;
+,
           imageUrl:
             'https://newsroom.spotify.com/media-kit/logo-and-brand-assets/',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Wrapped%20in%20Mystery%3A%20Why%20Drake%20Always%20Makes%20the%20Cut/README.md',

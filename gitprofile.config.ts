@@ -35,16 +35,16 @@ const CONFIG = {
         {
           title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
           description:
-            'Aim:
+            'Aim
 To investigate whether 2-0 is a dangerous scoreline and to understand whether there is really an advantage playing at home.
 
-Description:
+Description
 This project explores two popular football beliefs: the 'dangerous' nature of a 2-0 scoreline and the concept of home-field advantage. Using data from the last 10 seasons within the Premier League, I aim to uncover the accuracy of these assumptions through data analysis. The analysis of the 2-0 scoreline is primarily completed within Python while the analysis of home field advantage is completed within Power BI.
 
-Technology Stack:
+Technology Stack
 Python, Pandas, Numpy, Matplotlib, Excel, Power BI
 
-Key Insights:
+Key Insights
 The data shows that when a team is winning 2-0 at halftime they are overwhelmingly likely to win the game - 93.4% and 89.18% respectively for Home and Away teams.
 This indicates that 2-0 is not a dangerous scoreline as leading teams are very likely to finish the game with a win.
 

@@ -37,7 +37,7 @@ const CONFIG = {
          description:
             'Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped.',
           imageUrl:
-            'https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green.png',
+            'https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Wrapped%20in%20Mystery%3A%20Why%20Drake%20Always%20Makes%20the%20Cut/README.md',
         },
         {

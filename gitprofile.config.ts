@@ -42,9 +42,9 @@ const CONFIG = {
         },
         {
           title: 'Beyond the Myths: A Data-Driven Analysis of Common Myths in Football',
-          description: '•	Investigated the perceived danger of a 2-0 scoreline and examined the influence of home-field advantage using a decade of Premier League data.',
+          description: 'Investigated the perceived danger of a 2-0 scoreline and examined the influence of home-field advantage using a decade of Premier League data.',
           imageUrl:
-            'https://banner2.cleanpng.com/20180711/vg/aawnpno4v.webp',
+            'https://as2.ftcdn.net/jpg/03/69/91/03/1000_F_369910345_ixJLvQGgpH7mxAdElCdMiQL1MWrzDshl.jpg',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Beyond%20The%20Myths/Beyond%20the%20Myths.ipynb',
         },
       ],

@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
           description:
-            'Aim
+            "Aim
 To investigate whether 2-0 is a dangerous scoreline and to understand whether there is really an advantage playing at home.
 
 Description
@@ -50,7 +50,7 @@ This indicates that 2-0 is not a dangerous scoreline as leading teams are very l
 
 Based on the following metrics: Win Rate, % of total goals scored at Home vs Away, Home Expected Goals vs Away Expected Goals, Home Shots vs Away Shots & Home Shots on Target vs Away Shots on Target.
 A team statistically performs better at home
-            ',
+            ",
           imageUrl:
             'https://newsroom.spotify.com/media-kit/logo-and-brand-assets/',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Wrapped%20in%20Mystery%3A%20Why%20Drake%20Always%20Makes%20the%20Cut/README.md',

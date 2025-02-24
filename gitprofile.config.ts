@@ -34,12 +34,11 @@ const CONFIG = {
       projects: [
         {
           title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
-         description:
-            `Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped.
-
-
-
-Test`,
+         description: [
+  'Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped.',
+  '',
+  'Test'
+].join('\n'),
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Wrapped%20in%20Mystery%3A%20Why%20Drake%20Always%20Makes%20the%20Cut/README.md',

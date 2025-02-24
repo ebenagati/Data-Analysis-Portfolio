@@ -35,17 +35,14 @@ const CONFIG = {
         {
           title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
          description: [
-  'Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped.',
-  '',
-  'Test'
-].join('\n'),
+  'Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped through the use of Python & SQL.',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Wrapped%20in%20Mystery%3A%20Why%20Drake%20Always%20Makes%20the%20Cut/README.md',
         },
         {
           title: 'Beyond the Myths: A Data-Driven Analysis of Common Myths in Football',
-          description: 'Investigated the perceived danger of a 2-0 scoreline and examined the influence of home-field advantage using a decade of Premier League data.',
+          description: 'Investigated the perceived danger of a 2-0 scoreline and examined the influence of home-field advantage using a decade of Premier League data through the use of Python & Power BI.',
           imageUrl:
             'https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/19DF/production/_133032660_gettyimages-2078538583.jpg.webp',
           link: 'https://github.com/ebenagati/Portfolio/blob/main/Beyond%20The%20Myths/Beyond%20the%20Myths.ipynb',

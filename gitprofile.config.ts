@@ -34,7 +34,7 @@ const CONFIG = {
       projects: [
         {
           title: 'Wrapped in Mystery: Why Drake Always Makes the Cut',
-         description: [
+         description: 
   'Explored my Spotify listening habits to determine if Drake deserves a top 5 spot in my yearly Spotify Wrapped through the use of Python & SQL.',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg',
